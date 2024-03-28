@@ -1,11 +1,8 @@
-Jenkins
-![image](https://github.com/jinsuhyeon00/Docker-Jenkins/assets/79950254/ed8212ac-1602-429c-aee5-f621b71073a2)
+<h2> Jenkins </h2>
 
-
-젠킨스 - 소프트웨어 개발 시 지속적으로 통합(CI : Continuous Integration) 서비스를 제공하는 툴
-CI (Continuous Integration) : 여러 개발자들의 코드를 계속해서 통합하는 것
-CD (Continuous Delivery) : 개발자들이 코드를 계속 작성하면, 사용자 및 내부 사용자들이 계속 쓸수 있게 만드는 것
-
+젠킨스 - 소프트웨어 개발 시 지속적으로 통합(CI : Continuous Integration) 서비스를 제공하는 툴 <br>
+CI (Continuous Integration) : 여러 개발자들의 코드를 계속해서 통합하는 것 <br>
+CD (Continuous Delivery) : 개발자들이 코드를 계속 작성하면, 사용자 및 내부 사용자들이 계속 쓸수 있게 만드는 것 <br>
 
 젠킨스 설치
 ![젠킨스](https://github.com/jinsuhyeon00/Docker-Jenkins/assets/79950254/aac3e756-83b2-4014-b41a-8d93939e9546)
